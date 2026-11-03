@@ -24,7 +24,7 @@ Programa desenvolvido em Python para verificar se uma expressão matemática pos
 ## Como executar
 
 ```bash
-python validador_expressoes.py
+python expression-validator.py
 ```
 
 ## Objetivo
